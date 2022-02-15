@@ -8,6 +8,7 @@
 
 
 I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I love movies and travelling.
+
 ![Profile views](https://gpvc.arturio.dev/saimasiddique)  
 
 Skills:  JS / HTML / CSS / C++ / C 
@@ -23,10 +24,12 @@ Skills:  JS / HTML / CSS / C++ / C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasiddique)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saimasiddique)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimasiddique&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saimasiddique)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saimasiddique)  
+
 
 
