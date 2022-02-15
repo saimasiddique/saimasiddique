@@ -6,7 +6,7 @@
 #### I am a Fresh Graduate 
 
 
-I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I love movies and travelling.
+I am a motivated and passionate learner. Problem solving and learning Python are two things that interest me. I am currently learning web development. Next I'd like to learn more about NLP, AI, and ML. I'm a Computer Science student who wants to expand my computer science expertise. Apart from problem solving, I love movies and travelling.
 
 ![Profile views](https://gpvc.arturio.dev/saimasiddique)  
 
