@@ -19,7 +19,7 @@ Skills:  JS / HTML / CSS / C++ / C
 - ⚡ Fun fact: I love Chocolates 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saimasiddique)  [<img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-siddique-tashfia-ce022//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Saima-Tashfia-2)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saimasiddique)  [<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-siddique-tashfia-ce022//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Saima-Tashfia-2)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasiddique)](https://github.com/anuraghazra/github-readme-stats)
