@@ -1,13 +1,33 @@
-### Hi there 👋
+![I am Fresh Graduate ](https://blog.red-badger.com/hs-fs/hubfs/Github_Blog%20(1).gif?width=920&name=Github_Blog%20(1).gif)
+
+## Hi there 👋
+
+### My name is Saima Siddique Tashfia
+#### I am Fresh Graduate 
 
 
-**saimasiddique/saimasiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I love movies and travelling.
 
-Here are some ideas to get you started:
+Skills:  JS / HTML / CSS / C++ / C 
 
-- 🔭 I’m currently working on developing my programming skills
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web Development Projects
-- 🤔 I’m looking for help with web development projects
-- ⚡ Fun fact: I love chocolates 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on Research Works 
+- 🤔 I’m looking for help with Machine Learning Projects 
+- ⚡ Fun fact: I love Chocolates 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saimasiddique)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-siddique-tashfia-ce022//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Saima-Tashfia-2)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/saimasiddique)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saimasiddique)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saimasiddique&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/saimasiddique)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/saimasiddique)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/saimasiddique)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/saimasiddique)  
