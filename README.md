@@ -1,4 +1,4 @@
-![I am Fresh Graduate ](https://blog.red-badger.com/hs-fs/hubfs/Github_Blog%20(1).gif?width=920&name=Github_Blog%20(1).gif)
+![I am Fresh Graduate ](https://blog.red-badger.com/hs-fs/hubfs/Github_Blog%20(1).gif?width=920&height=300&name=Github_Blog%20(1).gif)
 
 ## Hi there 👋
 
