@@ -1,8 +1,9 @@
-![I am Fresh Graduate ](https://i.pinimg.com/originals/0f/ee/e3/0feee3b548da0dcc30a7a35f2167f650.gif)
+<!-- ![I am Fresh Graduate ](https://i.pinimg.com/originals/0f/ee/e3/0feee3b548da0dcc30a7a35f2167f650.gif) -->
+<img src='https://i.pinimg.com/originals/0f/ee/e3/0feee3b548da0dcc30a7a35f2167f650.gif' alt='github' width='100%'> 
 
 ##  Hey !! I'm Saima Siddique Tashfia...<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
 
-#### I am Fresh Graduate 
+#### I am a Fresh Graduate 
 
 
 I am an enthusiastic, ambitious developer, eager to contribute to make open source more accessible.Hands-on experience planning, analyzing, and implementing assigned projects and establishing schedules and project parameters.Apart from programming, I love movies and travelling.
