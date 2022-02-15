@@ -1,7 +1,6 @@
-<!-- ![I am Fresh Graduate ](https://blog.red-badger.com/hs-fs/hubfs/Github_Blog%20(1).gif?width=920&name=Github_Blog%20(1).gif)
+![I am Fresh Graduate ](https://i.pinimg.com/originals/0f/ee/e3/0feee3b548da0dcc30a7a35f2167f650.gif)
 
- -->
-##  Hi !! I am Saima Siddique Tashfia...<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
+##  Hey !! I'm Saima Siddique Tashfia...<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
 
 #### I am Fresh Graduate 
 
