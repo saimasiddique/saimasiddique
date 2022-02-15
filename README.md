@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🤔 I’m looking for help with web development projects
-- ⚡ Fun fact: I am quite interested in solving programming problems
+- ⚡ Fun fact: I love chocolates 
 
