@@ -1,9 +1,8 @@
 <!-- ![I am Fresh Graduate ](https://blog.red-badger.com/hs-fs/hubfs/Github_Blog%20(1).gif?width=920&name=Github_Blog%20(1).gif)
 
  -->
-# <b>Hi There !!!</b><img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
+## <b> Hi, my name is Saima Siddique Tashfia !!!</b><img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
 
-### My name is Saima Siddique Tashfia
 #### I am Fresh Graduate 
 
 
@@ -22,7 +21,7 @@ Skills:  JS / HTML / CSS / C++ / C
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://camo.githubusercontent.com/e491d9bed5a5bd4bc9254c3e898edb89eaddb801892173c588595ee400016b4e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32382f30322f30302f32383032303030336434613439336337386438323032626136633335663137392e676966' alt='github' height='40'>](https://github.com/https://github.com/saimasiddique)  [<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-siddique-tashfia-ce022//)  [<img src='https://gbiomed.kuleuven.be/english/research/50000715/50000716/ungap/Pictures_and_Logos_UNGAP_website/social-media-logos/researchgate-logo/image' alt='researchgate' height='38'>](https://www.researchgate.net/profile/Saima-Tashfia-2)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg' alt='codeforces' height='38'>](https://codeforces.com/profile/saima_siddique)       
+[<img src='https://camo.githubusercontent.com/e491d9bed5a5bd4bc9254c3e898edb89eaddb801892173c588595ee400016b4e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32382f30322f30302f32383032303030336434613439336337386438323032626136633335663137392e676966' alt='github' height='40'>](https://github.com/https://github.com/saimasiddique)  [<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saima-siddique-tashfia-ce022//)  [<img src='https://gbiomed.kuleuven.be/english/research/50000715/50000716/ungap/Pictures_and_Logos_UNGAP_website/social-media-logos/researchgate-logo/image' alt='researchgate' height='38'>](https://www.researchgate.net/profile/Saima-Tashfia-2)   [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg' alt='codeforces' height='38'>](https://codeforces.com/profile/saima_siddique)       
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saimasiddique)](https://github.com/anuraghazra/github-readme-stats)
