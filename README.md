@@ -3,7 +3,6 @@
 
 ##  Hey !! I'm Saima ...<img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="65" height="65" alt="gif">
 
-#### I am a Fresh Graduate 
 
 
 I am a motivated and passionate learner. Problem solving and learning Python are two things that interest me. I am currently learning web development. Next I'd like to learn more about NLP, AI, and ML. I'm a Computer Science student who wants to expand my computer science expertise. Apart from problem solving, I love movies and travelling.
