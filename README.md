@@ -15,7 +15,7 @@ Skills:  JS / HTML / CSS / C++ / C
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Research Works 
-- 🤔 I’m looking for help with Machine Learning Projects    ![yogocat_animation (1)](https://user-images.githubusercontent.com/23060899/159185467-e9f69205-c1e0-4258-b451-ed7d2c998aa3.gif)
+- 🤔 I’m looking for help with Machine Learning Projects   
 - ⚡ Fun fact: I love Chocolates 
 
 
