@@ -11,7 +11,7 @@ I am a motivated and passionate learner. Problem solving and learning Python are
 
 ![](https://komarev.com/ghpvc/?username=your-github-saimasiddique&abbreviated=true&color=blue)  
 
-Skills:  JS / HTML / CSS / C++ / C 
+Skills:  Python/ C++ / JS / HTML / CSS / C 
 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Research Works 
