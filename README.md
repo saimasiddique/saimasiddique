@@ -48,7 +48,7 @@ Skills:  JS / HTML / CSS / C++ / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saimasiddique&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saimasiddique)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saimasiddique&theme=dracula)](https://github.com/saimasiddique/github-readme-activity-graph)
 
 
 
